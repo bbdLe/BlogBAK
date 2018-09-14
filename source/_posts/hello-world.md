@@ -9,3 +9,5 @@ title: 博客搬到Hexo啦
 偶尔会写写博客或者发发妹子图
 
 已经到了深圳半年了,下次就写下在深圳的生活吧~
+
+<img src="https://ws1.sinaimg.cn/large/77cf1033gy1fv9jplxnxsj23342bkkjl.jpg"/>
