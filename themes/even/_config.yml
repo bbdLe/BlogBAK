@@ -11,7 +11,7 @@ favicon: /favicon.ico
 # Set feed link (false | default | your feed link)
 # false: disable
 # default: use `atom.xml`, generator for `hexo-generator-feed`
-rss: default
+rss: false
 
 # ===========================================
 # Menu Settings
@@ -54,19 +54,8 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
-  stack-overflow:
-  twitter:
-  facebook:
-  linkedin:
-  google:
-  github: https://github.com/ahonn
-  weibo:
-  zhihu:
-  douban:
-  pocket:
-  tumblr:
-  instagram:
+  email: dalibaxiaoliba19@gmail.com
+  github: https://github.com/bbdle
 
 # ===========================================
 # Third Party Services Settings
