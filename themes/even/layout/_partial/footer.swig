@@ -1,3 +1,5 @@
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
 {# Social Links #}
 {% include "./_footer/social.swig" %}
 
@@ -10,7 +12,14 @@
     {{ __('footer.theme') }} - 
     <a class="theme-link" href="https://github.com/ahonn/hexo-theme-even">Even</a>
   </span> -->
-
+<div>
+    <span id="busuanzi_container_site_pv">
+        本站总访问量<span id="busuanzi_value_site_pv"></span>次
+    </span>
+    <span id="busuanzi_container_site_uv">
+      本站访客数<span id="busuanzi_value_site_uv"></span>人次
+    </span>
+</div>
   <span class="copyright-year">
     {% set current = date(Date.now(), "YYYY") %}
     &copy; 
