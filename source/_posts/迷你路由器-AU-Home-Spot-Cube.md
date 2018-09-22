@@ -15,6 +15,21 @@ tags:
 ### 前言
 &ensp;&ensp;这个路由器型号我已经在大学用了快三年了, 一直很稳, 价格便宜, 包邮只要22块钱, 这是我入手它的原因. 大学宿舍有6个人, 通常在网设备有10台左右, 没出过啥问题, 舍友也靠着这个路由器打上钻石..., 这个路由内部运行一个类Unix系统, 但是没有开放权限, 只能设置一些对外开放的接口, 所以我们也不能在里面运行程序
 
+<center>
+<img src="https://ws1.sinaimg.cn/large/77cf1033gy1fvicqek80xj23342bkn7m.jpg"/>
+路由器
+</center>
+
+<center>
+<img src="https://ws1.sinaimg.cn/large/77cf1033gy1fvicqcv36uj23342bkarp.jpg"/>
+路由器接口
+</center>
+
+<center>
+<img src="https://ws1.sinaimg.cn/large/77cf1033gy1fvid01nausj20fc0lpabg.jpg"/>
+路由器进程
+</center>
+
 ### 设置路由器上网
 
 &ensp;&ensp;这个路由器是日本运营商的, 所以到手之后需要改一些配置
@@ -79,3 +94,7 @@ flash set WLAN0_CHANNEL 157
 3. 没有外置天线, 信号弱, 只适合单间这种房子(单间用是完全没问题, 信号很好, 多房间就不推荐)
 4. 发热量大, 有人还进行了散热改装, 但我用着是没问题的
 5. 拔电源再插上这种重启办法, 会让这个小路由器"死机", 需要等待3-4分钟, 才插上电源才能恢复. 建议在Web端重启
+
+<center>
+<img src="https://ws1.sinaimg.cn/large/77cf1033gy1fvicqg4ekcj23342bkdrx.jpg">
+</center>
